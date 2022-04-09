@@ -5,6 +5,7 @@
 
 * [Objective](#objective)
 * [Data](#data)
+* [Libraries and versions](#Libraries and versions)
 * [Technologies](#technologies)
 * [Algorithms](#Algorithm)
 * [Implementation](#implementation)
@@ -18,7 +19,18 @@ one data sources were referred.
 
 1. [Movielens data : Consisting of 1502 inctances of movie ratings provided by users.
 
+
+
+## LIBRARIES AND VERSIONS
+python 3.8.10
+numpy 1.22.3
+ubuntu Desktop 20.04.4
+findspark 2.0.1
+spark 3.2.1
+
+
 ## TECHNOLOGIES
+virtualbox and ubuntu to use pyspark
 Python - Spark, pyspark, numpy, findspark 
 
 ## ALGORITHMS
