@@ -1,4 +1,4 @@
-# Recommendation-with-Collaborative-Filtering---ALS
+# Recommendation with Collaborative Filtering-ALS
 
 # Movie recommendations for users
 ## TABLE OF CONTENTS
