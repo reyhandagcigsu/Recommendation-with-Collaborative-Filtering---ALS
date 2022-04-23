@@ -1,4 +1,4 @@
-# Recommendation with Collaborative Filtering-ALS
+# Recommendation with Collaborative Filtering-ALS (Pyspark)
 
 # Movie recommendations for users
 ## TABLE OF CONTENTS
